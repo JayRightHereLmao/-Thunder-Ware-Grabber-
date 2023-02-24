@@ -1,5 +1,7 @@
 # Jays Cookie Grabber
 
+WARNING:Turn Off Anti 🦠Virus🦠
+
 **I Am not responsible for any malicious use of this program**
 
 
