@@ -6,7 +6,8 @@ I Am not responsible for any malicious use of this program
 Thunder Ware Cookie grabber, The most Over-powered cookie logger in github 🤯 https://discord.gg/GHGkJv4q (UPDATED INV)
 
 
-![image](https://user-images.githubusercontent.com/123963555/221303854-8d34e1f4-409e-48d3-a0a3-35cd7eab92d9.png)
+![image](https://user-images.githubusercontent.com/123963555/221303959-fa7ab232-5f52-4157-aeeb-a040703ee24c.png)
+
 
 
 
