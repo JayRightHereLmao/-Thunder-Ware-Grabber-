@@ -3,7 +3,8 @@
 WARNING:Turn Off Anti 🦠Virus🦠
 
 **I Am not responsible for any malicious use of this program**
-![image](https://user-images.githubusercontent.com/123963555/221318959-0de9cff9-196d-4c07-806f-809711f24402.png)
+![image](https://user-images.githubusercontent.com/123963555/221319125-e3d15631-fe3d-4fe1-905d-715e13dfc954.png)
+
 
 
 Jays Cookie grabber, The most Over-powered cookie logger in github 🤯 
