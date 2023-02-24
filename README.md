@@ -1,30 +1,24 @@
-# -Thunder-Ware-Grabber-
-Thunder Ware Cookie Grabber
+# Jays Cookie Grabber
 
-I Am not responsible for any malicious use of this program
-
-Thunder Ware Cookie grabber, The most Over-powered cookie logger in github 🤯 https://discord.gg/GHGkJv4q (UPDATED INV)
+**I Am not responsible for any malicious use of this program**
 
 
-![image](https://user-images.githubusercontent.com/123963555/221304005-a56ff248-d101-4bb9-b98e-c7b8f5ea7636.png)
+Jays Cookie grabber, The most Over-powered cookie logger in github 🤯 
+https://discord.gg/5sRmUjQ2qg (UPDATED INV)
 
 
 
-
-
-Feautres:
-
-🟢Grabs Cookie from (Edge,opera,chrome,etc.)
-🟢Sends Robux Balance to webhook
-🟢Sends Premium Status to webhook
-🟢Sends Roblox Username to webhook
-🟢Sends IP Address to webhook
-🟢Sends RAP to webhook
-🟢Sends Creation date to webhook
-🟢Sends Account age to webhook
-🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
-
-To Do
-💎Add Token Grabber
-💎Add EXE version Builder
-💎Add Password Stealer
+# Feautres
+	🟢Grabs Cookie from (Edge,opera,chrome,etc.)
+	🟢Sends Robux Balance to webhook
+	🟢Sends Premium Status to webhook
+	🟢Sends Roblox Username to webhook
+	🟢Sends IP Address to webhook
+	🟢Sends RAP to webhook
+	🟢Sends Creation date to webhook
+	🟢Sends Account age to webhook
+	🟣NOT DETECTED BY WINDOWS DEFENDER AND SOME OTHER ANTI VIRUSES
+# To Do
+	💎Add Token Grabber
+	💎Add EXE version Builder
+	💎Add Password Stealer

